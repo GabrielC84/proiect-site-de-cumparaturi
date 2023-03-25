@@ -1,0 +1,74 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent Task,Blocked By (Dependencies),Blocking (Dependencies)
+1203930793425868,2023-02-08,2023-02-26,2023-02-26,Test Planning,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1203930795026494,2023-02-08,2023-02-26,2023-02-26,Requirements analysis,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1203930795026500,2023-02-08,2023-03-06,2023-03-06,Test Implementation,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1203930795026496,2023-02-08,2023-03-01,2023-03-05,Test Design,Done,,,,,,"Formular login
+
+    User si parola corecta apoi apasam butonul de login
+    User corect si parola invalida apoi apasam buton login
+    User corect camp parola gol apoi apasam buton login
+
+
+Pagina de produse
+ 
+    Verificare lista produse
+    Detalii produs in produsul individual(zoom)
+    Testarea butonului Back din detalii produs 
+
+Buton de filtru
+
+    Sortare lista Name (A to Z)
+    Sortare lista Name (Z to A)
+    Sortare lista Price ( low to high)
+    Sortare lista Price (high to low)
+
+Afisare produselor
+
+    Adaugare un produs in cos
+    Adaugare toate(6) produsele in cos
+    comanda fara produse in cos
+
+Cosul de cumparaturi
+
+    Testare buton remove din product list(main page)
+    Testare buton remove din pagina cos de cumparaturi
+    Testare buton ""continue shopping""
+    Verificare detalii produse din cosul de cumparaturi
+    Testare buton de ""checkout"" cu produse in cos
+
+
+Checkout
+
+    Testare ""checkout"" cu date corecte client
+    Testare ""checkout"" cu date incomplete client
+    Testare buton ""continue"" din pagina de checkout
+    Testare buton cancel din pagina checkout
+
+Overview
+
+    Testare buton finish din overview
+    Testare buton cancel din overview
+
+
+Finalizare comanda
+
+    Testare buton ""back to home""
+",Grupa_Nov22_GabrielC.,,,
+1203930795026502,2023-02-08,2023-03-12,2023-03-12,Test Execution,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1203930795026498,2023-02-08,2023-03-12,2023-03-12,Test Estimation,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1203977954361462,2023-02-15,,2023-03-12,test planning: Estimaated- 1hour Actual - 0.5hour,,,,,,,,,Test Estimation,,
+1203977954361463,2023-02-15,,2023-03-12,Requirements analysis: Estimation- 1hour: Actual - 1hour,,,,,,,,,Test Estimation,,
+1203977954361464,2023-02-15,,2023-03-12,"Test design: Estimated - 2.3h, Actual - 1.3h",,,,,,,,,Test Estimation,,
+1204059673996759,2023-02-26,,2023-03-12,Test Implementation: Estimated - 4h Actual - 3h,,,,,,,,,Test Estimation,,
+1204159820804754,2023-03-12,,2023-03-12,"Test Execution: Estimated - 3.5h, Actual - 2.3h",,,,,,,,,Test Estimation,,
+1203930795026504,2023-02-08,2023-03-15,2023-03-15,Test Closure Activities,Done,,,,,,,Grupa_Nov22_GabrielC.,,,
+1204186730115136,2023-03-15,,2023-03-15,"Programul Excel, atat si Asana au fost ok de folosit din punctul meu de vedere.",,,,,,,,,Test Closure Activities,,
+1204186730115139,2023-03-15,,2023-03-15,"A fost ok prezentarea proiectului, cat si timpul pentru completarea proiectului",,,,,,,,,Test Closure Activities,,
+1203930795026506,2023-02-08,2023-03-15,2023-03-15,Test Monitoring and Control,Done,bogdan.barbusiu@itschool.ro,bogdan.barbusiu@itschool.ro,,,,,Grupa_Nov22_GabrielC.,,,
+1204091393482826,2023-03-01,,2023-03-01,taskurile finalizate sa le treci in Done,,,,,,,,,Test Monitoring and Control,,
+1204091393482827,2023-03-01,,2023-03-01,test design - ar prinde bine niste scenarii de testare trecute ca test case uri-similare cu ceea ce am discutat la curs...comanda fara produse in cos,,,,,,,,,Test Monitoring and Control,,
+1204160222323019,2023-03-12,,2023-03-12,in TSR cu problem user si locked out user ai teste care nu au niciun rezultat,,,,,,,,,Test Monitoring and Control,,
+1204112307635700,2023-03-05,2023-03-15,2023-03-15,BugReport Standard_user,Bugs,,,,,,,Grupa_Nov22_GabrielC.,,,
+1204112307635706,2023-03-05,2023-03-15,2023-03-15,BugReport_Locked_out_user,Bugs,,,,,,,Grupa_Nov22_GabrielC.,,,
+1204112307635712,2023-03-05,2023-03-15,2023-03-15,BugReport_ Problem_User,Bugs,,,,,,,Grupa_Nov22_GabrielC.,,,
+1204159820804732,2023-03-12,2023-03-15,2023-03-15,BugReport_Performance_Glitch_User,Bugs,,,,,,,Grupa_Nov22_GabrielC.,,,
