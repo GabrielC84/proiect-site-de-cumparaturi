@@ -1,2 +1,2 @@
-# proiect-site-de-cumparaturi
+# shopping-site-project
 Test Cases project 
